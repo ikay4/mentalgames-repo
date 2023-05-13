@@ -50,3 +50,13 @@ CHAT (UNDECIDED):
     in a set range, which cannot be upgraded or (C) everyone in game. It will not be team chats and every chat will be a 1 on 1
     chat with just the player and the other player talking to each other. The JURY can see every chat, but the players can only see
     their chats. (this will be hard to add -.-)
+
+TWISTS:
+    Please ask me (ikay) or the requester for an explaination
+
+
+    - Sqaures that give Advatages/Disadvatages (requested by Codykins456) 
+    - Buy extra hearts/safety/etc in shop using action points (requested by Codykins456 & ikay)\
+
+
+## If you any more info, please ask ikay! thank you!
