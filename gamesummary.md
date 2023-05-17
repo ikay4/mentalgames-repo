@@ -22,7 +22,7 @@ RANGE:
     in you losing one action point.
 
 
-At the end of everyday, each player will get one action point. Player can also get action points
+At the end of everyday (every 24hr), each player will get one action point. Player can also get action points
 if players give them the action points. 
 
 GIVING:
