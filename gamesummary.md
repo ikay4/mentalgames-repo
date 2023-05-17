@@ -1,5 +1,4 @@
 # Mentality Summary
-new1 ver.
 
 The player is a tank(?), and starts the game with three lifes and three action points. 
 
