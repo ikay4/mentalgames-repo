@@ -58,6 +58,7 @@ TWISTS:
 
     - Sqaures that give Advatages/Disadvatages (requested by Codykins456) 
     - Buy extra hearts/safety/etc in shop using action points (requested by Codykins456 & ikay)
+    - Trading Center, allows users to trade, even if they are not in range of each other (requested by ikay)
 
 
 ## If you any more info, please ask ikay! thank you!
