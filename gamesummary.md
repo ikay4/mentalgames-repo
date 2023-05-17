@@ -7,15 +7,13 @@ HEARTS:
     and you are out of the game.
 
 ACTION POINTS:
+    When you do an action, you lose an action point. If you have no more action points, you can no 
+    longer do any actions until you get more. 
     Action points allow you to do actions. The actions are:
 
         - Moving 
         - Shooting
         - Upgrading Range
-    
-    
-    When you do an action, you lose an action point. If you have no more action points, you can no 
-    longer do any actions until you get more. 
 
 RANGE:
     The range is where you can shoot people or give people action points. There are 3 levels 
