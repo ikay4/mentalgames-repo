@@ -1,4 +1,5 @@
 # Mentality Summary
+update 5/17/23
 
 The player is a tank(?), and starts the game with three lifes and three action points. 
 
