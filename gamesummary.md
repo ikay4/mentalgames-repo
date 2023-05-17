@@ -1,4 +1,4 @@
-# Mental Games (Temp. Name) Summary
+# Mentality Summary
 
 The player is a tank, and starts the game with three lifes and three action points. 
 
@@ -12,6 +12,7 @@ ACTION POINTS:
         - Moving 
         - Shooting
         - Upgrading Range
+    
     
     When you do an action, you lose an action point. If you have no more action points, you can no 
     longer do any actions until you get more. 
@@ -56,7 +57,7 @@ TWISTS:
 
 
     - Sqaures that give Advatages/Disadvatages (requested by Codykins456) 
-    - Buy extra hearts/safety/etc in shop using action points (requested by Codykins456 & ikay)\
+    - Buy extra hearts/safety/etc in shop using action points (requested by Codykins456 & ikay)
 
 
 ## If you any more info, please ask ikay! thank you!
