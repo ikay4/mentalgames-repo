@@ -1,6 +1,6 @@
 # Mentality Summary
 
-The player is a tank, and starts the game with three lifes and three action points. 
+The player is a tank(?), and starts the game with three lifes and three action points. 
 
 HEARTS:
     This is pretty straight-forward, if you get shot by a tank, you lose a heart. Lose three hearts,
@@ -48,9 +48,7 @@ NOTE: This game is suppose to last several days/weeks
 
 CHAT (UNDECIDED):
     When a player is in game, the player can talk to (A) everyone in their range or (B) everyone near them
-    in a set range, which cannot be upgraded or (C) everyone in game. It will not be team chats and every chat will be a 1 on 1
-    chat with just the player and the other player talking to each other. The JURY can see every chat, but the players can only see
-    their chats. (this will be hard to add -.-)
+    in a set range, which cannot be upgraded or (C) everyone in game. It will not be team chats and every chat will be a 1 on 1 chat with just the player and the other player talking to each other. The JURY can see every chat, but the players can only see their chats. (this will be hard to add -.-)
 
 TWISTS:
     Please ask me (ikay) or the requester for an explaination
