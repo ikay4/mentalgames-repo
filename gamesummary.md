@@ -49,6 +49,8 @@ CHAT (UNDECIDED):
     When a player is in game, the player can talk to (A) everyone in their range or (B) everyone near them
     in a set range, which cannot be upgraded or (C) everyone in game. It will not be team chats and every chat will be a 1 on 1 chat with just the player and the other player talking to each other. The JURY can see every chat, but the players can only see their chats. (this will be hard to add -.-)
 
+    Please tell ikay which one you like best. Having a hard time deciding -.-
+
 TWISTS:
     Please ask me (ikay) or the requester for an explaination
 
